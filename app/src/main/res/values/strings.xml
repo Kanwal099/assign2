@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab2</string>
+    <string name="reset">Reset</string>
+    <string name="submit">Submit</string>
+    <string name="search">Search</string>
+    <string name="inputHint">Enter keywords to search</string>
+    <string name="email">Email</string>
+</resources>
